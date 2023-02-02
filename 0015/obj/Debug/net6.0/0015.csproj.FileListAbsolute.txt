@@ -1,0 +1,15 @@
+C:\Users\Sun\Desktop\курс CS\0015\bin\Debug\net6.0\0015.exe
+C:\Users\Sun\Desktop\курс CS\0015\bin\Debug\net6.0\0015.deps.json
+C:\Users\Sun\Desktop\курс CS\0015\bin\Debug\net6.0\0015.runtimeconfig.json
+C:\Users\Sun\Desktop\курс CS\0015\bin\Debug\net6.0\0015.dll
+C:\Users\Sun\Desktop\курс CS\0015\bin\Debug\net6.0\0015.pdb
+C:\Users\Sun\Desktop\курс CS\0015\obj\Debug\net6.0\0015.csproj.AssemblyReference.cache
+C:\Users\Sun\Desktop\курс CS\0015\obj\Debug\net6.0\0015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sun\Desktop\курс CS\0015\obj\Debug\net6.0\0015.AssemblyInfoInputs.cache
+C:\Users\Sun\Desktop\курс CS\0015\obj\Debug\net6.0\0015.AssemblyInfo.cs
+C:\Users\Sun\Desktop\курс CS\0015\obj\Debug\net6.0\0015.csproj.CoreCompileInputs.cache
+C:\Users\Sun\Desktop\курс CS\0015\obj\Debug\net6.0\0015.dll
+C:\Users\Sun\Desktop\курс CS\0015\obj\Debug\net6.0\refint\0015.dll
+C:\Users\Sun\Desktop\курс CS\0015\obj\Debug\net6.0\0015.pdb
+C:\Users\Sun\Desktop\курс CS\0015\obj\Debug\net6.0\0015.genruntimeconfig.cache
+C:\Users\Sun\Desktop\курс CS\0015\obj\Debug\net6.0\ref\0015.dll
